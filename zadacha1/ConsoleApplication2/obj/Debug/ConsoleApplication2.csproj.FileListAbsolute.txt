@@ -4,3 +4,6 @@ c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication2\Conso
 c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
 c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\knms1b21_mozoliuk\zadacha1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\knms1b21_mozoliuk\zadacha1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\knms1b21_mozoliuk\zadacha1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
