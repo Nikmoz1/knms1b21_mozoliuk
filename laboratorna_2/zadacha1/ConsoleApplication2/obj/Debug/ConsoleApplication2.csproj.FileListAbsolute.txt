@@ -7,3 +7,11 @@ c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication2\Conso
 C:\Users\Student\Documents\Visual Studio 2015\Projects\knms1b21_mozoliuk\zadacha1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
 C:\Users\Student\Documents\Visual Studio 2015\Projects\knms1b21_mozoliuk\zadacha1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 C:\Users\Student\Documents\Visual Studio 2015\Projects\knms1b21_mozoliuk\zadacha1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_2\zadacha1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_2\zadacha1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_2\zadacha1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_2\zadacha1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.AssemblyReference.cache
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_2\zadacha1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.SuggestedBindingRedirects.cache
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_2\zadacha1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_2\zadacha1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_2\zadacha1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
