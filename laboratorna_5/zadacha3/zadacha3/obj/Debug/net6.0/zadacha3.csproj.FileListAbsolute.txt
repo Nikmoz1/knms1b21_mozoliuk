@@ -1,0 +1,16 @@
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\obj\Debug\net6.0\zadacha3.GlobalUsings.g.cs
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\obj\Debug\net6.0\zadacha3.csproj.AssemblyReference.cache
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\obj\Debug\net6.0\zadacha3.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\obj\Debug\net6.0\zadacha3.AssemblyInfoInputs.cache
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\obj\Debug\net6.0\zadacha3.AssemblyInfo.cs
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\obj\Debug\net6.0\zadacha3.csproj.CoreCompileInputs.cache
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\bin\Debug\net6.0\zadacha3.exe
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\bin\Debug\net6.0\zadacha3.deps.json
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\bin\Debug\net6.0\zadacha3.runtimeconfig.json
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\bin\Debug\net6.0\zadacha3.dll
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\bin\Debug\net6.0\ref\zadacha3.dll
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\bin\Debug\net6.0\zadacha3.pdb
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\obj\Debug\net6.0\zadacha3.dll
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\obj\Debug\net6.0\ref\zadacha3.dll
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\obj\Debug\net6.0\zadacha3.pdb
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_5\zadacha3\zadacha3\obj\Debug\net6.0\zadacha3.genruntimeconfig.cache
