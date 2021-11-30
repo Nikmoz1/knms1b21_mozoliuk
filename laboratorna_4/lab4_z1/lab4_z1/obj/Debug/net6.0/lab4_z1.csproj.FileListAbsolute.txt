@@ -1,0 +1,15 @@
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\bin\Debug\net6.0\lab4_z1.exe
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\bin\Debug\net6.0\lab4_z1.deps.json
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\bin\Debug\net6.0\lab4_z1.runtimeconfig.json
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\bin\Debug\net6.0\lab4_z1.dll
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\bin\Debug\net6.0\ref\lab4_z1.dll
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\bin\Debug\net6.0\lab4_z1.pdb
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\lab4_z1.GlobalUsings.g.cs
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\lab4_z1.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\lab4_z1.AssemblyInfoInputs.cache
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\lab4_z1.AssemblyInfo.cs
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\lab4_z1.csproj.CoreCompileInputs.cache
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\lab4_z1.dll
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\ref\lab4_z1.dll
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\lab4_z1.pdb
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\lab4_z1.genruntimeconfig.cache
