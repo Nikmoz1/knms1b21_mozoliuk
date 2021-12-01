@@ -1,0 +1,16 @@
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\bin\Debug\net6.0\mkr2.exe
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\bin\Debug\net6.0\mkr2.deps.json
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\bin\Debug\net6.0\mkr2.runtimeconfig.json
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\bin\Debug\net6.0\mkr2.dll
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\bin\Debug\net6.0\ref\mkr2.dll
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\bin\Debug\net6.0\mkr2.pdb
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\obj\Debug\net6.0\mkr2.GlobalUsings.g.cs
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\obj\Debug\net6.0\mkr2.csproj.AssemblyReference.cache
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\obj\Debug\net6.0\mkr2.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\obj\Debug\net6.0\mkr2.AssemblyInfoInputs.cache
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\obj\Debug\net6.0\mkr2.AssemblyInfo.cs
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\obj\Debug\net6.0\mkr2.csproj.CoreCompileInputs.cache
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\obj\Debug\net6.0\mkr2.dll
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\obj\Debug\net6.0\ref\mkr2.dll
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\obj\Debug\net6.0\mkr2.pdb
+A:\C#Projects\knms1b21_mozoliuk\mkr\mkr2\mkr2\obj\Debug\net6.0\mkr2.genruntimeconfig.cache
