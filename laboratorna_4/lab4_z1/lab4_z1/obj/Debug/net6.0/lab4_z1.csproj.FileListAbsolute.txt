@@ -13,3 +13,4 @@ A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\l
 A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\ref\lab4_z1.dll
 A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\lab4_z1.pdb
 A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\lab4_z1.genruntimeconfig.cache
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_4\lab4_z1\lab4_z1\obj\Debug\net6.0\lab4_z1.csproj.AssemblyReference.cache

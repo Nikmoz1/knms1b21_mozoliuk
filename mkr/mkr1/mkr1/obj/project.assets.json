@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\C#Projects\\knms1b21_mozoliuk\\laboratorna_4\\lab4_z1\\lab4_z1\\lab4_z1.csproj",
-      "projectName": "lab4_z1",
-      "projectPath": "A:\\C#Projects\\knms1b21_mozoliuk\\laboratorna_4\\lab4_z1\\lab4_z1\\lab4_z1.csproj",
+      "projectUniqueName": "A:\\C#Projects\\knms1b21_mozoliuk\\mkr\\mkr1\\mkr1\\mkr1.csproj",
+      "projectName": "mkr1",
+      "projectPath": "A:\\C#Projects\\knms1b21_mozoliuk\\mkr\\mkr1\\mkr1\\mkr1.csproj",
       "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-      "outputPath": "A:\\C#Projects\\knms1b21_mozoliuk\\laboratorna_4\\lab4_z1\\lab4_z1\\obj\\",
+      "outputPath": "A:\\C#Projects\\knms1b21_mozoliuk\\mkr\\mkr1\\mkr1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

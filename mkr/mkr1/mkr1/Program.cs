@@ -2,7 +2,7 @@
 using System.Collections.Specialized;
 
 Console.WriteLine("Last 10 records");
-int[] array = new int[5]; 
+int[] array = new int[10];
 for (int i = 0; i < array.Length; i++)
 {
     Console.WriteLine("Vvedit chislo: ");
@@ -12,6 +12,4 @@ for (int i = 0; i < array.Length; i++)
     var str = string.Join(" ", array);
     Console.WriteLine(str);
 }
-//Console.WriteLine(array);
-
 
