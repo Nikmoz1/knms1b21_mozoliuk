@@ -58,7 +58,7 @@ namespace exampleone
 
 		internal static void printMagazines(Printable[] printable)
 		{
-			Console.WriteLine("Title of the Magazine!" + printable.ToString());
+			Console.WriteLine("Title of the Magazine! " + printable.ToString());
 		}
 
 	}

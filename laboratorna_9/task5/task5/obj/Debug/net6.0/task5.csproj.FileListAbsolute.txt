@@ -1,0 +1,16 @@
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\bin\Debug\net6.0\task5.exe
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\bin\Debug\net6.0\task5.deps.json
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\bin\Debug\net6.0\task5.runtimeconfig.json
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\bin\Debug\net6.0\task5.dll
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\bin\Debug\net6.0\ref\task5.dll
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\bin\Debug\net6.0\task5.pdb
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\obj\Debug\net6.0\task5.GlobalUsings.g.cs
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\obj\Debug\net6.0\task5.csproj.AssemblyReference.cache
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\obj\Debug\net6.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\obj\Debug\net6.0\task5.AssemblyInfoInputs.cache
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\obj\Debug\net6.0\task5.AssemblyInfo.cs
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\obj\Debug\net6.0\task5.csproj.CoreCompileInputs.cache
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\obj\Debug\net6.0\task5.dll
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\obj\Debug\net6.0\ref\task5.dll
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\obj\Debug\net6.0\task5.pdb
+A:\C#Projects\knms1b21_mozoliuk\laboratorna_9\task5\task5\obj\Debug\net6.0\task5.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+Назва каталогу: Texts
+Розташування каталогу: A:\C#Projects\knms1b21_mozoliuk\laboratorna_8\task_1\task_1\bin\Debug\net6.0\path_d\Texts
+Час створення каталогу:01.01.1601 0:00:00
+Кореневий каталог: A:\

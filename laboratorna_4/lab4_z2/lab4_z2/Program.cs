@@ -149,7 +149,7 @@ class TQuadrangle
 
         }
         else if (a == c || b == d) Console.WriteLine("trapeciya");
-        else Console.WriteLine("norm 4kutnik");
+        else Console.WriteLine("norm 4 kutnik");
     }
 }
 class Program
