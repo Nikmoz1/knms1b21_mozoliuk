@@ -1,0 +1,16 @@
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\bin\Debug\net6.0\ekzamen.exe
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\bin\Debug\net6.0\ekzamen.deps.json
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\bin\Debug\net6.0\ekzamen.runtimeconfig.json
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\bin\Debug\net6.0\ekzamen.dll
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\bin\Debug\net6.0\ref\ekzamen.dll
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\bin\Debug\net6.0\ekzamen.pdb
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\obj\Debug\net6.0\ekzamen.GlobalUsings.g.cs
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\obj\Debug\net6.0\ekzamen.csproj.AssemblyReference.cache
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\obj\Debug\net6.0\ekzamen.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\obj\Debug\net6.0\ekzamen.AssemblyInfoInputs.cache
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\obj\Debug\net6.0\ekzamen.AssemblyInfo.cs
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\obj\Debug\net6.0\ekzamen.csproj.CoreCompileInputs.cache
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\obj\Debug\net6.0\ekzamen.dll
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\obj\Debug\net6.0\ref\ekzamen.dll
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\obj\Debug\net6.0\ekzamen.pdb
+A:\C#Projects\knms1b21_mozoliuk\ekzamen\ekzamen\ekzamen\obj\Debug\net6.0\ekzamen.genruntimeconfig.cache
