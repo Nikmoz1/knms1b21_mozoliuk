@@ -1,32 +1,45 @@
 ﻿using System;
 
-namespace ConsoleApp6
+namespace ekzamen
 {
     interface Lamp
     {
-        static string type = "Лампа Illuminate";
-        static string manufacturer = "Україна, Київ";
-        static int power = 13;
-        static int count = 3;
+        static string type;
+        static string manufacturer;
+        static int power;
+        static int count;
         void set_power(int new_power) { }
         void lamp_show_info() { }
 
     }
     interface Camera
     {
-        static string type = "Cannon 5008";
-        static string manufacturer = "Нiмечинна, Берлiн";
-        static int sensitivity_min = 4;
-        static int sensitivity_max = 135;
+        static string type;
+        static string manufacturer;
+        static int sensitivity_min;
+        static int sensitivity_max;
         void set_sensitivity() { }
         void camera_show_info() { }
 
     }
     class PhotoStudio : Lamp
     {
-        public void lamp_show_info()
+        protected string type { get; set; }
+        protected string manufacturer { get; set; }
+        protected int power { get; set; }
+        protected int count { get; set; }
+
+        public PhotoStudio(string type, string manufacturer, int power, int count)
         {
-            Console.WriteLine("Тип: " + Lamp.type + "\nВиробник: " + Lamp.manufacturer + "\nПотужнiсть у люменах: " + Lamp.power + "СИ\nКiлькiсть освiтлювальних елементiв: " + Lamp.count);
+            this.type = type;
+            this.manufacturer = manufacturer;
+            this.power = power;
+            this.count = count;
+        }
+  
+        public string lamp_show_info()
+        {
+            return "Тип: " + type + "\nВиробник: " + manufacturer + "\nПотужнiсть у люменах: " + power + "СИ\nКiлькiсть освiтлювальних елементiв: " + count;
         }
         public void camera_show_info()
         {
@@ -44,8 +57,16 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
-            PhotoStudio ps = new PhotoStudio();
-            ps.show_info();
+            PhotoStudio[] photostudio = {
+                new PhotoStudio("Лампа Illuminate 3000", "Україна, Київ", 13, 3),
+                new PhotoStudio("Лампа Блискавка 2000", "Україна, Кам-Под", 21, 1),
+            };
+            foreach (PhotoStudio str in photostudio)
+            {
+
+                Console.WriteLine($"{str.lamp_show_info()}\n" );
+            }
         }
-    }
+       
+}
 }
